@@ -1,0 +1,15 @@
+{
+  "id": 140,
+  "name_en": "Ashuganj",
+  "name_bn": "আশুগঞ্জ",
+  "code": "ASJ",
+  "shohoz_city": "ASHUGANJ",
+  "zone": "East",
+  "division": "Chittagong",
+  "gauge": "Meter",
+  "lat": 24.05,
+  "lng": 91.0167,
+  "is_intercity_hub": false,
+  "type": "C",
+  "source": "Official BR Eastern Zone fare chart — station not previously in stations.json"
+}

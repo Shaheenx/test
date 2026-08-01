@@ -1,0 +1,12 @@
+export const Spacing = {
+  'space-1': 4,
+  'space-2': 8,
+  'space-3': 12,
+  'space-4': 16,
+  'space-5': 20,
+  'space-6': 24,
+  'space-8': 32,
+  'space-10': 40,
+  'space-12': 48,
+  'space-16': 64,
+};

@@ -1,8 +1,8 @@
 {
   "expo": {
     "name": "RailMate",
-    "slug": "railmate",
-    "owner": "najmulcodes",
+    "slug": "railmate-bangladesh",
+    "owner": "shariarxxs-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -80,7 +80,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "89dafa4e-15e7-4360-bd67-2079f260288a"
+        "projectId": "9ed4b0fb-a16c-423e-9f6f-0f0eb526e57f"
       }
     },
     "experiments": {
